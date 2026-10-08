@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "notes": "Primera version publicada",
+  "min_runtime": "1.0.0",
+  "code": {
+    "url": "https://github.com/josepeyra/vision-hotel-releases/releases/download/v1.0.0/vision-hotel-1.0.0-code.zip",
+    "sha256": "39c45d79fc840c4fa1d7c128d99073372853f8fb24a65e798954f293924ba9fc"
+  },
+  "installers": {
+    "windows": "https://github.com/josepeyra/vision-hotel-releases/releases/tag/v1.0.0"
+  }
+}
